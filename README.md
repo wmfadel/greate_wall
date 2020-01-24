@@ -1,6 +1,10 @@
 # great_wall
 
-A new Flutter application.
+Flutter UI for travel application.
+
+- Original design by [Eduard](https://dribbble.com/Ed_m) on dribbble.com [here](https://dribbble.com/shots/3828133-Traveling-app)
+
+<img src=https://github.com/wmfadel/greate_wall/blob/master/Screenshots/Screenshot_1579871708.png width="320"/>
 
 ## Getting Started
 
